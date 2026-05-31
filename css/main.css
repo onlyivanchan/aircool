@@ -1299,6 +1299,7 @@ section {
 
   .prod3-stage-desc p {
     text-align: center;
+    padding-left: 0;
   }
 
   .prod3-left-block {
@@ -1319,6 +1320,7 @@ section {
   .prod3-left-text {
     text-align: center;
     margin-left: 0;
+    padding-right: 0;
     order: 2;
   }
 
@@ -1510,11 +1512,8 @@ section {
   .prod3-left-text {
     text-align: center;
     margin-left: 0;
+    padding-right: 0;
     order: 2;
-  }
-
-  .prod3-left-image img {
-    max-height: 320px;
   }
 
   .prod3-right-block {
@@ -1557,7 +1556,7 @@ section {
 
   .compat-cell {
     flex-direction: column !important;
-    padding: 14px 10px;
+    padding: 8px 6px;
     text-align: center;
   }
 
@@ -1565,6 +1564,7 @@ section {
     text-align: center !important;
     order: 2;
     font-size: 0.85rem;
+    margin-top: 4px;
   }
 
   .compat-img {

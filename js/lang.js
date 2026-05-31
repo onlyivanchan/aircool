@@ -147,7 +147,7 @@ const translations = {
     
     // Hero区域
     heroScroll: 'เลื่อนลง',
-    stat1Label: 'ระบายอากาศรอบทิศทาง',
+    stat1Label: 'ระบายรอบทิศ',
     stat2Label: 'ระดับความแรง',
     stat3Label: 'ติดตั้งรวดเร็ว',
     stat4Label: 'สีให้เลือก',
